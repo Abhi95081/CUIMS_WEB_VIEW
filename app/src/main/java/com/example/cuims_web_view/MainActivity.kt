@@ -50,7 +50,7 @@ class MainActivity : ComponentActivity() {
 fun WebviewScreen(modifier: Modifier = Modifier) {
     var isLoading by remember { mutableStateOf(true) }
 
-    Box(modifier = modifier.fillMaxSize().padding(1.dp)) {
+    Box(modifier = modifier.fillMaxSize()) {
         AndroidView(
             modifier = Modifier.fillMaxSize(),
             factory = { context ->
