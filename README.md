@@ -11,10 +11,8 @@ A simple Android WebView app built using Jetpack Compose to display the **Chandi
 - 🔒 **Secure WebView Settings**
 
 ## Screenshots
+![Cuims](https://github.com/user-attachments/assets/209194c6-f51e-4df7-aa20-4981874a1ef2)
 
-<p align="center">
-  <img src=![Cuims](https://github.com/user-attachments/assets/1bfb3d02-a10f-40c8-b2ad-ca7ba355c30e)
- />
 
 
 ## Installation
