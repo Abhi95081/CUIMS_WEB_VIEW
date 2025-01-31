@@ -13,8 +13,9 @@ A simple Android WebView app built using Jetpack Compose to display the **Chandi
 ## Screenshots
 
 <p align="center">
-  <img src="https://via.placeholder.com/300x600.png?text=WebView+Loading" width="30%" />
-  <img src="https://via.placeholder.com/300x600.png?text=CUIMS+WebView" width="30%" />
+  <img src="![Cuims](https://github.com/user-attachments/assets/41cbcfee-8e87-44a6-8718-d1de79500fbd)
+?text=WebView+Loading" width="30%" />
+<!--   <img src="https://via.placeholder.com/300x600.png?text=CUIMS+WebView" width="30%" /> -->
 </p>
 
 ## Installation
